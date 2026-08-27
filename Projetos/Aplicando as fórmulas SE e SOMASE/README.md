@@ -3,4 +3,4 @@ Baseado na tabela de dados, o objetivo será realizar o cálculo da variável **
 
 - **Cálculo do Perfil Elegível:**
 
-Utilização da fórmula **SE(E())** para teste lógico entre as variáveis de "Faixa Etária" e "Escolaridade"
+    Utilização da fórmula **SE(E())** para teste lógico entre as variáveis de "Faixa Etária" e "Escolaridade"
