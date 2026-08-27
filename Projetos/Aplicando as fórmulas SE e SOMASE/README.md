@@ -1,4 +1,4 @@
-### Explorando a fórmula SE e SOMASE
+### Explorando as fórmulas SE e SOMASE
 Baseado na tabela de dados, o objetivo será realizar o cálculo das variáveis **Perfil Elegível**, **Público Elegível** e **Estimativa de Mercado**, a fim de simular a decisão para o lançamento de um novo produto.
 
 - **Cálculo do Perfil Elegível:**
