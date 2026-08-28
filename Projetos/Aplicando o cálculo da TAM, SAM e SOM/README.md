@@ -8,3 +8,5 @@
 Responde: Qual o tamanho máximo da oportunidade?
 
       TAM = Número de clientes potenciais x Ticket médio anual
+
+#### Metodologia SAM
