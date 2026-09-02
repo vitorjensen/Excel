@@ -13,4 +13,13 @@ Responde: Qual o tamanho máximo da oportunidade?
   
       =SOMASE(Total!B:B;"5 a 9 anos";Total!C:C )  + SOMASE(Total!B:B;"10 a 14 anos";Total!C:C)
 
-#### Metodologia SAM
+#### Metodologia SAM (Mercado Útil Acessível)
+-> SERVICEABLE AVAILABLE MARKET
+
+- Nem toda TAM é "acessível".
+- Representa o mercado que se consegue atender com o produto atual.
+- Traz a visão macro para mais perto da realidade.
+- Responde: Onde consigo atuar com eficiência?
+
+      SAM = Número de clientes atendível x Ticket médio anual
+
