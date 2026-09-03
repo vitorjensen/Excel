@@ -51,4 +51,4 @@ Percentual do mercado que a empresa consegue capturar.
 
 - Fórmula de cálculo da SOM:
 
-        SOM = Valor da SAM x Taxa de Penetração
+        SOM = Valor da SAM x Taxa de Penetração (Conservador, Realista, Agressivo...)
