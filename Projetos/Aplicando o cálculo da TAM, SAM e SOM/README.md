@@ -34,14 +34,17 @@ Responde: Qual o tamanho máximo da oportunidade?
 - Responde: O quanto conseguimos converter em receita?
 
 Definição de **Taxa de Penetração:**
+
 Percentual do mercado que a empresa consegue capturar.
 
 Isso é baseado em:
+
       1. Força de Venda.
       2. Posicionamento de Mercado.
       3. Benchmark competitivo.
       
 A SOM pode ser pautada em alguns cenários:
+
       1. Conservador = 1%
       2. Realista = 3%
       3. Agressivo = 5%
