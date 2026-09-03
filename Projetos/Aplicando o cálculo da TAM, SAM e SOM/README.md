@@ -45,7 +45,7 @@ Isso é baseado em:
       
 A SOM pode ser pautada em alguns cenários:
 
-      1. Conservador = 1%
-      2. Realista = 3%
-      3. Agressivo = 5%
+      1. Conservador = 1%, com base na SAM
+      2. Realista = 3%, com base na SAM
+      3. Agressivo = 5%, com base na SAM
 
