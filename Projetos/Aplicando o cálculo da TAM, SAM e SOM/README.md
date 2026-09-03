@@ -22,3 +22,7 @@ Responde: Qual o tamanho máximo da oportunidade?
 
       SAM = Número de clientes atendível x Ticket médio anual
 
+- Fórmula de cálculo para SAM no Excel:
+
+      =SOMASE(Total!A:A;'Premissas e Cálculos'!A20;Total!C:C)
+  
