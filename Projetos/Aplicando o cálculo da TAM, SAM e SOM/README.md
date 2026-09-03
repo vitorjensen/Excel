@@ -53,8 +53,8 @@ Percentual do mercado que a empresa consegue capturar.
 
         SOM = Valor da SAM x Taxa de Penetração (Conservador, Realista, Agressivo...)
   
-Insight da SOM:
+- Insight da SOM:
 
-            1. Traduz potencial, em resultado tangível
-            2. Permite calibrar a ambição, mostrando a real capacidade de execução
-            3. Suporte a decisão, Go-To-Market (Metas comerciais) e alocação de recursos
+      1. Traduz potencial, em resultado tangível
+      2. Permite calibrar a ambição, mostrando a real capacidade de execução
+      3. Suporte a decisão, Go-To-Market (Metas comerciais) e alocação de recursos
