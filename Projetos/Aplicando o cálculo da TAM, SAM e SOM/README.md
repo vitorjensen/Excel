@@ -57,4 +57,4 @@ Insight da SOM:
 
       1. Traduz potencial, em resultado tangível
       2. Permite calibrar a ambição, mostrando a real capacidade de execução
-      3. Suporte a decisão, Go-To-Market e alocação de recursos
+      3. Suporte a decisão, Go-To-Market (Metas comerciais) e alocação de recursos
