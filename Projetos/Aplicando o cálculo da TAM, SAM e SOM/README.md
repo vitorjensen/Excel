@@ -26,3 +26,9 @@ Responde: Qual o tamanho máximo da oportunidade?
 
       =SOMASE(Total!A:A;'Premissas e Cálculos'!A20;Total!C:C)
   
+#### Metodologia SOM (SERVICEABLE OBTAINABLE MARKET)
+
+- Mercado útil acessível
+- Parcela da SAM que realmente pode ser capturada
+- Faz algumas considerações: Capacidade comercial, Concorrência e Maturidade de Mercado
+- Responde: O quanto conseguimos converter em receita?
