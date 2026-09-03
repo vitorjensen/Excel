@@ -28,7 +28,7 @@ Responde: Qual o tamanho máximo da oportunidade?
   
 #### Metodologia SOM (SERVICEABLE OBTAINABLE MARKET)
 
-- Mercado útil acessível
-- Parcela da SAM que realmente pode ser capturada
-- Faz algumas considerações: Capacidade comercial, Concorrência e Maturidade de Mercado
+- Mercado útil acessível.
+- Parcela da SAM que realmente pode ser capturada.
+- Faz algumas considerações: Capacidade comercial, Concorrência e Maturidade de Mercado.
 - Responde: O quanto conseguimos converter em receita?
