@@ -37,15 +37,18 @@ Definição de **Taxa de Penetração:**
 
 Percentual do mercado que a empresa consegue capturar.
 
-Isso é baseado em:
+- Isso é baseado em:
 
       1. Força de Venda.
       2. Posicionamento de Mercado.
       3. Benchmark competitivo.
       
-A SOM pode ser pautada em alguns cenários:
+- A SOM pode ser pautada em alguns cenários:
 
       1. Conservador = 1%, com base na SAM
       2. Realista = 3%, com base na SAM
       3. Agressivo = 5%, com base na SAM
 
+- Fórmula de cálculo da SOM:
+
+        SOM = Valor da SAM x Taxa de Penetração
